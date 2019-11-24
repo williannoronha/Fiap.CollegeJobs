@@ -1,4 +1,4 @@
-# Fiap.Collegejobs
+# Fiap.CollegeJobs
 
 Este repositório contém trabalhos relacionados ao curso de *Arquitetura e Desenvolvimento na Plataforma .NET*
 
